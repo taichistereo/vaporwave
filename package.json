@@ -1,20 +1,20 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "Vaporwave",
+    "name": "github-taichistereo-vaporwave",
+    "description": "vaporwave dark theme.",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Taichi Irie (https://github.com/taichistereo)",
+    "homepage": "https://github.com/taichistereo/vaporwave/tree/main",
     "engines": {
         "brackets": ">=2.0.0"
     },
-    "categories": "demo",
+    "categories": "theme",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode", "theme", "dark", "vaporwave"
     ],
     "theme": {
-        "file": "my-theme.less",
+        "file": "vaporwave.less",
         "dark": true
     }
 }
