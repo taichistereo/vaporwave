@@ -1,4 +1,4 @@
-# Theme Template
+# Dark Theme for Phoenixcode(ex.Brackets)
 
 Quick start and create a new theme by using this template. Follow the below 4 steps:
 
