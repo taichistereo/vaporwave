@@ -1,7 +1,11 @@
-# Dark Theme for Phoenixcode (ex.Brackets)
+# Dark Theme for Phoenix Code (ex.Brackets)
 
 This theme is inspired by Vaporwave.
 
+- The entire UI is colored
+- Easy to distinguish from other windows using dark themes.
+
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/5336369/224746152-0416a862-891a-4fe1-b9dd-09add25a6cc0.png)
+This image is a temporary dummy.
+![image](https://x.com/taichistereo/status/1892326247654363355/photo/1)
