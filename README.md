@@ -8,4 +8,4 @@ This theme is inspired by Vaporwave.
 ## Screenshot
 
 This image is a temporary dummy.
-![image](https://x.com/taichistereo/status/1892326247654363355/photo/1)
+![image](https://private-user-images.githubusercontent.com/3136564/415189508-a288d5dd-ebd4-47d5-a60b-7c35eff1f3c5.jpg)
